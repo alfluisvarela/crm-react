@@ -1,0 +1,44 @@
+{
+  "clientes": [
+    {
+      "nombre": "Alfredo",
+      "empresa": "crm",
+      "email": "correo@coreo.com",
+      "telefono": "222156115615",
+      "notas": "kgpjsjij sjpoj s opsg d",
+      "id": 1
+    },
+    {
+      "nombre": "Carlos Varela",
+      "empresa": "concordia",
+      "email": "correo.carlos@correo.com",
+      "telefono": "03545505515",
+      "notas": "kmkal m;lkmpl a;lkm ",
+      "id": 2
+    },
+    {
+      "nombre": "Agustina",
+      "empresa": "Concordia",
+      "email": "correo.agustina@gmail.com",
+      "telefono": "03456897855",
+      "notas": "Lorem iosum",
+      "id": 3
+    },
+    {
+      "nombre": "Marina",
+      "empresa": "Concordia srl",
+      "email": "correo.marina@gmail.com",
+      "telefono": "0322456897855",
+      "notas": "Lorem iosum",
+      "id": 5
+    },
+    {
+      "nombre": "Susana",
+      "empresa": "Concordia srl",
+      "email": "correo.susana@gmail.com",
+      "telefono": "03456825297855",
+      "notas": "Lorem iosum",
+      "id": 6
+    }
+  ]
+}
